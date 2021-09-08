@@ -12,7 +12,7 @@ educación:
   - course: Bachillerato en Antropología con varios enfasis.
     institution: Universidad de Costa Rica
     year: 2010
-email: ""
+email: "arcemarcc@gmail.com"
 highlight_name: false
 intereses:
 - Arqueología del Caribe de Costa Rica
