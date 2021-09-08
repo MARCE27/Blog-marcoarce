@@ -15,10 +15,9 @@ education:
 email: ""
 highlight_name: false
 interest:
-- Arqueología del Caribe de Costa Rica
+- Obras Hidraulicas precolombinas
 - Uso de Plantas Sagradas en el pasado
 - Aplicación de SIG y TD en Arqueología
-- Obras Hidraulicas
 organizations:
 - name: Museos del Banco Central
   url: https://museosdelbancocentral.org/team/marco-arce-cerdas/
