@@ -1,7 +1,7 @@
 ---
 bio: Mis intereses de investigación incluyen, modificación del paisaje en epoca       precolobina, uso de plantas sagradas en el pasado y obras hidraulicas precolombinas. 
 
-educación:
+education:
   courses:
   - course: Master en Sistemas de Información Geográfica y Teledetección.
     institution: Universidad Nacional y Universidad de Costa Rica.
@@ -12,9 +12,9 @@ educación:
   - course: Bachillerato en Antropología con varios enfasis.
     institution: Universidad de Costa Rica
     year: 2010
-email: "arcemarcc@gmail.com"
+email: ""
 highlight_name: false
-intereses:
+interest:
 - Arqueología del Caribe de Costa Rica
 - Uso de Plantas Sagradas en el pasado
 - Aplicación de SIG y TD en Arqueología
