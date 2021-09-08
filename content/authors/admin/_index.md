@@ -13,7 +13,7 @@ education:
     institution: Universidad de Costa Rica
     year: 2010
 email: ""
-highlight_name: false
+highlight_name: true
 interest:
 - Obras Hidraulicas precolombinas
 - Uso de Plantas Sagradas en el pasado
