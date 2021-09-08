@@ -1,23 +1,24 @@
 ---
-bio: My research interests include distributed robotics, mobile computing and programmable
-  matter.
-education:
+bio: Mis intereses de investigación incluyen, modificación del paisaje en epoca       precolobina, uso de plantas sagradas en el pasado y obras hidraulicas precolombinas. 
+
+educación:
   courses:
-  - course: PhD in Artificial Intelligence
-    institution: Stanford University
+  - course: Master en Sistemas de Información Geográfica y Teledetección.
+    institution: Universidad Nacional y Universidad de Costa Rica.
+    year: Cursando
+  - course: Licenciatura en Antropología con enfasis en Arqueología.
+    institution: Universidad de Costa Rica
     year: 2012
-  - course: MEng in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2009
-  - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2008
+  - course: Bachillerato en Antropología con varios enfasis.
+    institution: Universidad de Costa Rica
+    year: 2010
 email: ""
 highlight_name: false
-interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
+intereses:
+- Arqueología del Caribe de Costa Rica
+- Uso de Plantas Sagradas en el pasado
+- Aplicación de SIG y TD en Arqueología
+- Obras Hidraulicas
 organizations:
 - name: Museos del Banco Central
   url: https://museosdelbancocentral.org/team/marco-arce-cerdas/
@@ -28,25 +29,19 @@ social:
   link: /#contact
 - display:
     header: true
-  icon: twitter
-  icon_pack: fab
-  label: Follow me on Twitter
-  link: https://twitter.com/GeorgeCushen
 - icon: graduation-cap
   icon_pack: fas
-  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+  link: https://ucr.academia.edu/MArceCerdas?from_navbar=true
 - icon: github
   icon_pack: fab
-  link: https://github.com/gcushen
+  link: https://github.com/MARCE27
 - icon: linkedin
   icon_pack: fab
-  link: https://www.linkedin.com/
+  link: https://www.linkedin.com/feed/
 superuser: true
 title: Marco Arce
 ---
 
-Marco Arce Cerdas, es Arqueólogo y jefe del Departamento de Colecciones de los Museos del Banco Central de Costa Rica (DCMBCCR).
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+Marco Antonio Arce Cerdas es Licenciado en Antropología con énfasis en Arqueología por la Universidad de Costa Rica. Su investigación versa sobre la producción, función y uso de la cerámica, así como en la arquitectura precolombina y la transformación del paisaje del Caribe Costarricense. Fungió como consultor ambiental en el Instituto Costarricense de Electricidad y participó como investigador en la restauración del Monumento Nacional Guayabo y en otros proyectos independientes. Actualmente, se desempeña como Encargado de las Colecciones de los Museos del Banco Central de Costa Rica.
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
