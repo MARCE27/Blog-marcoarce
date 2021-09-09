@@ -43,6 +43,6 @@ title: Marco Arce
 ---
 
 Marco Antonio Arce Cerdas es Licenciado en Antropología con énfasis en Arqueología por la Universidad de Costa Rica. Mi investigación se centra en la producción, función y uso de la cerámica, así como en la arquitectura precolombina y la transformación del paisaje del Caribe Costarricense. 
-Trabaje como consultor ambiental en el Instituto Costarricense de Electricidad y participe como investigador en la restauración del Monumento Nacional Guayabo y en otros proyectos independientes. Actualmente, se desempeña como Encargado de las Colecciones de los Museos del Banco Central de Costa Rica.
+Trabaje como consultor ambiental en el Instituto Costarricense de Electricidad y participe como investigador en la restauración del Monumento Nacional Guayabo y en otros proyectos independientes. Actualmente, me desempeño como Encargado de las Colecciones de los Museos del Banco Central de Costa Rica.
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
