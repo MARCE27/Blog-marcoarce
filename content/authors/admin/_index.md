@@ -13,8 +13,9 @@ education:
     institution: Universidad de Costa Rica
     year: 2010
 email: ""
-highlight_name: true
-interest:
+highlight_name: false
+interests:
+- Arqueología del Caribe
 - Obras Hidraulicas precolombinas
 - Uso de Plantas Sagradas en el pasado
 - Aplicación de SIG y TD en Arqueología
@@ -41,6 +42,7 @@ superuser: true
 title: Marco Arce
 ---
 
-Marco Antonio Arce Cerdas es Licenciado en Antropología con énfasis en Arqueología por la Universidad de Costa Rica. Su investigación versa sobre la producción, función y uso de la cerámica, así como en la arquitectura precolombina y la transformación del paisaje del Caribe Costarricense. Fungió como consultor ambiental en el Instituto Costarricense de Electricidad y participó como investigador en la restauración del Monumento Nacional Guayabo y en otros proyectos independientes. Actualmente, se desempeña como Encargado de las Colecciones de los Museos del Banco Central de Costa Rica.
+Marco Antonio Arce Cerdas es Licenciado en Antropología con énfasis en Arqueología por la Universidad de Costa Rica. Mi investigación se centra en la producción, función y uso de la cerámica, así como en la arquitectura precolombina y la transformación del paisaje del Caribe Costarricense. 
+Trabaje como consultor ambiental en el Instituto Costarricense de Electricidad y participe como investigador en la restauración del Monumento Nacional Guayabo y en otros proyectos independientes. Actualmente, se desempeña como Encargado de las Colecciones de los Museos del Banco Central de Costa Rica.
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
