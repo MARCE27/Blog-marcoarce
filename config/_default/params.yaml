@@ -18,19 +18,13 @@ phone: (506)88696368
 address:
   street: casa 1, Manzana P.
   city: San José
-  region: Tibas
+  region: Tibás
   country: Costa Rica
   country_code: CR
 coordinates:
   latitude: '9.95939'
   longitude: '-84.06900'
 
-
-# Localization
-
-date_format: 'Jan 2, 2006'
-time_format: '3:04 PM'
-address_format: en-us
 
 # Site features
 
@@ -81,14 +75,14 @@ projects:
   talk_view: 2
 breadcrumb:
   page_types:
-    book: true
+    book: false
 comments:
   provider: ''
   commentable:
-    post: true
-    book: true
-    project: true
-    publication: true
+    post: false
+    book: false
+    project: false
+    publication: false
     event: false
   disqus:
     shortname: ''
