@@ -8,7 +8,7 @@ image:
   focal_point: ""
 lastMod: "2019-09-05T00:00:00Z"
 projects: []
-subtitle:Plantas Sagradas en la Región Central de Costa Rica
+subtitle: Plantas Sagradas en la Región Central de Costa Rica
 summary: primeros datos sobre plantas sagradas en Costa Rica
 tags: []
 title: Consumo de plantas y hongos psicoactivos en las culturas precolombinas de Costa Rica
