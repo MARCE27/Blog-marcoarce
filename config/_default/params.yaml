@@ -20,7 +20,7 @@ address:
   city: San José
   region: Tibás
   country: Costa Rica.
- coordinates:
+coordinates:
   latitude: '9.95939'
   longitude: '-84.06900'
 
