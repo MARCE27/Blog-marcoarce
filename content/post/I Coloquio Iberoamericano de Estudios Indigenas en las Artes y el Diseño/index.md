@@ -8,10 +8,10 @@ image:
   focal_point: ""
 lastMod: "2019-09-05T00:00:00Z"
 projects: []
-subtitle: Plantas Sagradas en la Región Central de Costa Rica
-summary: primeros datos sobre plantas sagradas en Costa Rica
+subtitle: Estudios Indígenas desde el Arte y el Diseño
+summary: Evento Internacional
 tags: []
-title: Consumo de plantas y hongos psicoactivos en las culturas precolombinas de Costa Rica
+title: I Coloquio Iberoamericano
 ---
 
 
@@ -20,13 +20,18 @@ title: Consumo de plantas y hongos psicoactivos en las culturas precolombinas de
 
 
 
-## Región Arqueológica Central Caribe
+## El Coloquio
 
-En la región Central Caribe, encontramos una variedad de artefactos que sugieren, de forma indirecta, el consumo de embriagantes durante la época precolombina. La cultura material documentada evidencia una tradición de consumo de tabaco o cohoba muy clara durante la fase El Bosque, entre el 300 a.C. y el 300 d.C., figurillas cerámicas que representan personajes fumando con pipas, inhaladores nasales y pipas de los tipos cerámicos Bosque Rojo sobre Agamuzado y Bosque Rojo, son parte del conjunto de objetos vinculados con el consumo de plantas sagradas para este período.
+Esta actividad tuvo lugar entre el 30 de agosto y el 3 de setiembre del 2021 y consistió en un evento virtual que reunió investigadores de toda Iberoamérica, quienes presentaron sus trabajos entorno a estudios realizados sobre el diseño y el arte en  poblaciones indígenas.
 
-Para la fase La Selva y complejo Madera (300 d.C.- 1100 d.C.), se presenta un vacío en la cultura material vinculada con el consumo de plantas sagradas y es hasta la fase La Cabaña (1100d.C. -1500 d.C.) que se vuelve a tener un registro material que podríamos relacionar de manera indirecta con el consumo de este tipo de plantas; a saber, esculturas de piedra que representan personajes hincados o sentados que presentan características corporales claramente definidas y que podríamos vincular con desnutrición como los son rasgos faciales con prominentes pómulos y mejillas, representación de costillas y espina dorsal que protruyen, una proporción mayor de la cabeza con respecto al cuerpo, en algunos casos estas esculturas presentan unos objetos alargado posiblemente puros, que sostiene con una o ambas manos y dispuestos en cercanía a la boca.
+## Entre cabezas y hachas. Los diseños en los cinturones de las esculturas de guerreros y tomadores de cabezas de la Región Central, Costa Rica.
 
-Estas esculturas parecen indicar una transformación en el método de administración, abandonando los artefactos utilizados en fases anteriores como lo son los inhaladores y pipas, remplazándolos con puros. Además, los rasgos corporales descritos sugieren que se trata de representaciones de los sukias o chamanes, los cuales usualmente se sometían a largos ayunos y períodos de deprivación durante su entrenamiento para convertirse en hombres de medicina.
+Esta ponencia sepresento en coatoria con la Lic. Daniela Meneses (Departamento de Protección al Patrimonio, Museo Nacional de Costa Rica) y busco proponer una metodología de análisis de los motivos representados en los cinturones de esculturas de piedra antropomorfas (esculturas de bulto redondo),  vinculadas con personajes interpretados como guerreros o tomadores de cabezas. Prácticas que tenían un rol de demostración de poder en los grupos sociales que ocuparon la Región Central -específicamente el Caribe- de lo que actualmente es el territorio de Costa Rica.
+
+
+En este estudio exploratorio, se presentaron los primeros resultados de una investigación en proceso de los autores, donde se documentaron los motivos presentes en los cinturones que portan los personajes representados en las esculturas, con el objetivo de generar un registro de los diferentes diseños para identificar recurrencias o diferencias entre estos y vincularlos con otros elementos de la parafernalia representada en estas esculturas. De esta manera se buscan extraer las distintas pautas de diseño implementados en los cinturones.
+
+
 
 
 
