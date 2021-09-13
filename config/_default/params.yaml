@@ -110,5 +110,5 @@ cms:
   branch: master
   local_backend: false
 icon:
-  pack: false
+  pack: 
     ai: false
