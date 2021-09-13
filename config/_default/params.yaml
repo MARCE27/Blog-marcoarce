@@ -19,7 +19,8 @@ address:
   street: casa 1, Manzana P.
   city: San José
   region: Tibás
-  country: Costa Rica.
+  country: Costa Rica
+  codigo: cr
 coordinates:
   latitude: '9.95939'
   longitude: '-84.06900'
