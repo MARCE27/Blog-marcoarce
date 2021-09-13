@@ -26,7 +26,7 @@ Esta actividad tuvo lugar entre el 6 y 10 de setiembre del 2021 y consistió en 
 
 En el evento realizado durante el presente año, tuve la oportunidad de presentar dos ponencias: 
 
-## EEntre Luces, Sombras y Pixeles: El uso de la Fotogrametría en el registro de los Petrograbados del Sitio Arqueológico Rosa María
+## Entre Luces, Sombras y Pixeles: El uso de la Fotogrametría en el registro de los Petrograbados del Sitio Arqueológico Rosa María
 
 El uso de tecnologías de registro grafico en la arqueología centroamericana, se ha dado paulatinamente y de manera tardía, en comparación con su implementación en la arqueología de otras latitudes, es posible que esto se deba en un principio al costo de los instrumentos y software necesarios para su implementación.
 
