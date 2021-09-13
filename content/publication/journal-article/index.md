@@ -5,12 +5,12 @@ author_notes:
 - Equal contribution
 authors:
 - admin
-- Arce Marco
+- Arce Marco and Peytrequín Jeffrey
 date: "2019-09-01T00:00:00Z"
 doi: ""
 featured: false
 image:
-  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/jdD8gXaTZsc)'
+  caption: 'Image credit: [**MBCCR**](https://unsplash.com/photos/jdD8gXaTZsc)'
   focal_point: ""
   preview_only: false
 projects: []
@@ -34,12 +34,5 @@ url_source: ""
 url_video: ""
 ---
 
-{{% callout note %}}
-Click the *Cite* button above to demo the feature to enable visitors to import publication metadata into their reference management software.
-{{% /callout %}}
 
-{{% callout note %}}
-Create your slides in Markdown - click the *Slides* button to check out the example.
-{{% /callout %}}
-
-Supplementary notes can be added here, including [code, math, and images](https://wowchemy.com/docs/writing-markdown-latex/).
+Supplementary notes can be added here, including [petrograbados, Arqueología, and Obras Hidráulicas](https://wowchemy.com/docs/writing-markdown-latex/).
